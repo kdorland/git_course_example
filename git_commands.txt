@@ -9,4 +9,4 @@ git branch
 git branch "ny branch"
 git checkout "navn på branch"
 
-commit på mandatory
+commit på mandatory 2
