@@ -1,0 +1,12 @@
+git init
+git add .
+git status
+git log
+git remote add origin https://github.com/kdorland/git_course_example.git
+git push -u origin master
+https://github.com/kdorland/git_course_example
+git branch
+git branch "ny branch"
+git checkout "navn på branch"
+
+noget på mandatory
