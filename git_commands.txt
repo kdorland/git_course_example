@@ -8,5 +8,8 @@ https://github.com/kdorland/git_course_example
 git branch
 git branch "ny branch"
 git checkout "navn på branch"
-
-commit efter merge
+git merge "navn på branch man merger fra"
+    Hvis conflict:
+        Løse konflikten
+        git add filen med conflict i
+        lave ny commit
