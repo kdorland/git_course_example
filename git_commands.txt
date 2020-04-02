@@ -13,3 +13,4 @@ git merge "navn på branch man merger fra"
         Løse konflikten
         git add filen med conflict i
         lave ny commit
+
